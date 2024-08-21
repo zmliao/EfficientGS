@@ -1,2 +1,2 @@
 # EfficientGSKernels
-Efficient CUDA Kernels for 3D Gaussian Splatting
+Efficient Toolkits for 3D Gaussian Splatting
