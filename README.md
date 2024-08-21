@@ -5,4 +5,4 @@ Efficient Toolkits for 3D Gaussian Splatting
 + [FlashGS](https://github.com/InternLandMark/FlashGS)
   FlashGS is an efficient CUDA Python library, enabling real-time 3D Gaussian Splatting (3DGS) based rendering especially for large-scale and high-resolution scenes.
 + [LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS](https://github.com/VITA-Group/LightGaussian)
-  
++ [EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS](https://github.com/Sharath-girish/efficientgaussian)(ECCV 2024)
